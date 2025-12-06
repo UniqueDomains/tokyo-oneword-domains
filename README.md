@@ -22,8 +22,8 @@ If you want to search & filters the complete database of [.TOKYO one word domain
 | Domain           | Status    | Attract. | Demand | Length | Registrar                    | Created          | Expires          |
 | ---------------- | --------- | -------- | ------ | ------ | ---------------------------- | ---------------- | ---------------- |
 | centesimal.tokyo | available | 58       | 1%     | 10     |                              |                  |                  |
-| clv.tokyo        | available | 66       | 10%    | 3      |                              |                  |                  |
-| cxv.tokyo        | available | 60       | 4%     | 3      |                              |                  |                  |
+| clv.tokyo        | premium   | 66       | 10%    | 3      |                              |                  |                  |
+| cxv.tokyo        | premium   | 60       | 4%     | 3      |                              |                  |                  |
 | cypher.tokyo     | resell    | 58       | 28%    | 6      | TLD Registrar Solutions Ltd. | 23/12/2021 00:20 | 23/12/2025 23:59 |
 | eleventh.tokyo   | available | 62       | 5%     | 8      |                              |                  |                  |
 | fifteen.tokyo    | available | 88       | 13%    | 7      |                              |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.TOKYO one word domain
 | nought.tokyo     | available | 92       | 4%     | 6      |                              |                  |                  |
 | sixteen.tokyo    | available | 88       | 9%     | 7      |                              |                  |                  |
 | tenth.tokyo      | available | 116      | 7%     | 5      |                              |                  |                  |
-| two.tokyo        | available | 80       | 20%    | 3      |                              |                  |                  |
+| two.tokyo        | premium   | 80       | 20%    | 3      |                              |                  |                  |
 | xvi.tokyo        | available | 66       | 4%     | 3      |                              |                  |                  |
 | xxix.tokyo       | available | 56       | 4%     | 4      |                              |                  |                  |
 

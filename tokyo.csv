@@ -1,7 +1,7 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 142525c3-fba9-4204-9e2b-5dd2ae419185,centesimal.tokyo,available,58,1,10,,,
-895a728c-7ecd-4b66-a364-0bd0b781c94a,clv.tokyo,available,66,10,3,,,
-f764749b-55f1-4f2a-b6d7-b371cff03281,cxv.tokyo,available,60,4,3,,,
+895a728c-7ecd-4b66-a364-0bd0b781c94a,clv.tokyo,premium,66,10,3,,,
+f764749b-55f1-4f2a-b6d7-b371cff03281,cxv.tokyo,premium,60,4,3,,,
 bd940359-be8d-4dca-9712-2cb99712ae00,cypher.tokyo,resell,58,28,6,TLD Registrar Solutions Ltd.,23/12/2021 00:20,23/12/2025 23:59
 d59effe2-b2ef-4321-b380-b817b2bb28cb,eleventh.tokyo,available,62,5,8,,,
 81bdea21-0e78-402f-9a50-aed394b97201,fifteen.tokyo,available,88,13,7,,,
@@ -11,6 +11,6 @@ dc73f024-d98d-405d-9514-20a0f031e757,fourteenth.tokyo,available,76,2,10,,,
 7ad193be-405b-497a-bfff-78d8145797f3,nought.tokyo,available,92,4,6,,,
 9f36e9a0-fc9e-4ea1-8736-46367a57ba81,sixteen.tokyo,available,88,9,7,,,
 2d8232a6-e7c2-4c76-acbe-8be48e594209,tenth.tokyo,available,116,7,5,,,
-15cbd2db-e468-4724-9632-ce63186995c7,two.tokyo,available,80,20,3,,,
+15cbd2db-e468-4724-9632-ce63186995c7,two.tokyo,premium,80,20,3,,,
 564e8364-58dd-4d99-8997-e7efcb2e8eb5,xvi.tokyo,available,66,4,3,,,
 68f0f3dd-f8ba-48e1-b666-f3e6870fdc9e,xxix.tokyo,available,56,4,4,,,
