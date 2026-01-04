@@ -31,9 +31,9 @@ If you want to search & filters the complete database of [.TOKYO one word domain
 | fourteenth.tokyo | available | 76       | 2%     | 10     |                              |                  |                  |
 | hundredth.tokyo  | available | 76       | 1%     | 9      |                              |                  |                  |
 | nought.tokyo     | available | 92       | 97%    | 6      |                              |                  |                  |
-| sixteen.tokyo    | available | 88       | 9%     | 7      |                              |                  |                  |
+| sixteen.tokyo    | available | 88       | 8%     | 7      |                              |                  |                  |
 | tenth.tokyo      | available | 116      | 7%     | 5      |                              |                  |                  |
-| two.tokyo        | premium   | 80       | 20%    | 3      |                              |                  |                  |
+| two.tokyo        | premium   | 80       | 19%    | 3      |                              |                  |                  |
 | xvi.tokyo        | available | 66       | 4%     | 3      |                              |                  |                  |
 | xxix.tokyo       | available | 56       | 4%     | 4      |                              |                  |                  |
 
@@ -75,7 +75,7 @@ If you want to search & filters the complete database of [.TOKYO one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
